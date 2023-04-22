@@ -1,0 +1,16 @@
+O QUE FOI FEITO:
+
+Diretório do BD: C:\Program Files\Microsoft SQL Server\MSSQL15.OLTP\MSSQL\DATA - "OLIST"
+
+- Baixei a base de dados (arquivos em csv) no link "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce".
+- Criei uma tabela de carga para cada arquivo. São 8 arquivos:
+	. Customer
+	. Geolocation
+	. Order itens
+	. Order payments
+	. Orders
+	. Product Category
+	. Products
+	. Sellers
+- Criei uma tabela de produção para cada tabela de carga.
+- Exportei os dados de cada tabela de carga para cada tabela de produção.
