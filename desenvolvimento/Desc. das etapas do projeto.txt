@@ -12,3 +12,4 @@ O QUE FOI FEITO:
 	. Sellers
 - Criei uma tabela de produção para cada tabela de carga.
 - Exportei os dados de cada tabela de carga para cada tabela de produção.
+
